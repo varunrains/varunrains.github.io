@@ -14,6 +14,10 @@
 - type: stack-overflow
   icon: "fab fa-stack-overflow"
   url: "https://stackoverflow.com/users/3397738/varun"
+
+- type: website
+  icon: "fa-solid fa-user-tie"
+  url: "https://varunupadhya.com"
 # - type: rss
 #   icon: "fas fa-rss"
 #   noblank: true
